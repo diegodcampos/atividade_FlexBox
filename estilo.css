@@ -46,22 +46,30 @@ h1 {
 }
 
 .container3 {
-   display: flex;
-   justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .container4 {
     display: flex;
     justify-content: space-between;
 }
+
 .container5 {
     display: flex;
     justify-content: space-around;
 }
+
 .container6 {
     display: flex;
     justify-content: space-evenly;
 }
+
+.container-exercicio-B {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
 .containerDesafio {
     display: flex;
     flex-direction: row;
